@@ -1,4 +1,4 @@
-![alt text](status.png)
+![alt text](images/status.png)
 
 
 >[!TIP]
